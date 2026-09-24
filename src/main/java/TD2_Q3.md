@@ -1,6 +1,7 @@
 ## Question 3 — Task list initiale
 
 [ ] 1- Gav : parser et valider une coordonnee "group:artifact:version"
+
 [ ] 2- InMemoryStorage : put/get d'un Artifact par Gav
 [ ] 3- BufferedLineReader : lire un fichier ligne a ligne (adaptateur sur BufferedReader)
 [ ] 4- LineBasedPomParser : transformer un flux de lignes en Project
