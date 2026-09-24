@@ -5,6 +5,5 @@
 
 - **Mockito** : est un outil permettant de créer facilement des objets simulés (mocks, stubs, spies) pour isoler le code testé.
 
-- **JaCoCo** : est un outil de mesure de la couverture de code, qui indique quelles parties du programme sont exécutées par les tests. 
+- **JaCoCo** : est un outil de mesure de la couverture de code, qui indique quelles parties du programme sont exécutées par les tests===> elle est la bibliothèque de test 
 
--une bibliothèque de test : c'est un outil de mesure de couverture de code (indique quelles lignes/branches ont été exécutées par les tests).
